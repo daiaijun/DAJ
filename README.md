@@ -5,4 +5,5 @@ Second, Dry_trash_classification.ipynb is about the classification model to clas
 
 
 PS:
-Before running the program, please check the file path.
+1. Before running the program, please check the file path.
+2. Because of the dataset size, the dataset is uploaded on onedrive. (Link: https://1drv.ms/u/s!AqLlbqJSIYDRhHUVonYHsbNncmUH?e=x7IwZX)
